@@ -1,0 +1,551 @@
+[{
+  "_id": {
+    "$oid": "638ae5e300f07e34fd49d95a"
+  },
+  "question": "Among the active participation of school officials and teachers in the community, which is not appropriate due to prevailing religious sentiments?",
+  "answer": "Promoting contraceptives for planned parenthood",
+  "choices": [
+    "Literacy assistance for out-of-school children/youths",
+    "Household campaign for healthful practice",
+    "Introducing cooperative thrift practices"
+  ]
+},{
+  "_id": {
+    "$oid": "638ae6bf00f07e34fd49d95b"
+  },
+  "question": "What educational philosophy should a teacher emphasize if he wants his students to develop self-responsibility and accountability?",
+  "answer": "existentialist",
+  "choices": [
+    "utilitarianist",
+    "essentialist",
+    "constructivist"
+  ]
+},{
+  "_id": {
+    "$oid": "638ae76100f07e34fd49d95c"
+  },
+  "answer": "standard and competencies",
+  "choices": [
+    "performance test results",
+    "subject content results",
+    "achievement test results"
+  ],
+  "question": "If higher education is concerned with outcomes, DepEd is concerned with:"
+},{
+  "_id": {
+    "$oid": "638ae7be00f07e34fd49d95d"
+  },
+  "question": "I have to check if my students were able to produce the expected output against outcomes. Which type of portfolio am I interested to see?",
+  "answer": "assessment portfolio",
+  "choices": [
+    "development portfolio",
+    "showcase portfolio",
+    "evaluation portfolio"
+  ]
+},{
+  "_id": {
+    "$oid": "638ae83100f07e34fd49d95e"
+  },
+  "question": "Which standardized test is used to measure performance in completed subjects at various grade levels?",
+  "answer": "achievement test",
+  "choices": [
+    "remedial test",
+    "intelligence test",
+    "aptitude test"
+  ]
+},{
+  "_id": {
+    "$oid": "638aea5f00f07e34fd49d960"
+  },
+  "question": "What enables the learner to fully contribute to a peaceful and just society based on the “Learning to do” pillar?",
+  "answer": "insight",
+  "choices": [
+    "knowledge",
+    "values",
+    "skills"
+  ]
+},{
+  "_id": {
+    "$oid": "638aea9700f07e34fd49d961"
+  },
+  "question": "Your students are more interested in a topic that is part of your lesson so you drop your original lesson in favor of what they like. Which philosophy governs your decision?",
+  "answer": "existentialism",
+  "choices": [
+    "rationalism",
+    "empiricism",
+    "progressivism"
+  ]
+},{
+  "_id": {
+    "$oid": "638aeaca00f07e34fd49d962"
+  },
+  "question": "A learner must first attain this for him/herself before being able to fully “learn to live and work together”.",
+  "answer": "love his fellowmen",
+  "choices": [
+    "attain an altruistic mind",
+    "find peace within oneself",
+    "become self-actualized"
+  ]
+},{
+  "_id": {
+    "$oid": "638aeb0c00f07e34fd49d963"
+  },
+  "question": "The development of sound judgment, commitment to truth, and the strengthening of the moral fabric of society all belong to this major goal of Philippine education.",
+  "answer": "ethical character",
+  "choices": [
+    "self-actualization",
+    "enculturation",
+    "autonomy"
+  ]
+},{
+  "_id": {
+    "$oid": "638aeb4d00f07e34fd49d964"
+  },
+  "question": "A powerful European country supplied weapons to Afghanistan rebels who were fighting a war in the Middle East. Based on the principle of moral discernment, what is the most applicable based on this scenario?",
+  "answer": "principle of formal cooperation",
+  "choices": [
+    "principle of double effect",
+    "principle of material cooperation",
+    "principle of lesser evil"
+  ]
+},{
+  "_id": {
+    "$oid": "638aeb9200f07e34fd49d965"
+  },
+  "question": "“Learning to learn” is best seen in this/these skill/s.",
+  "answer": "to listen and observe",
+  "choices": [
+    "to ask and gather data",
+    "to process and select information",
+    "to read with understanding"
+  ]
+},{
+  "_id": {
+    "$oid": "638aebe000f07e34fd49d966"
+  },
+  "question": "If people live together in peace and harmony by understanding one’s traditions and values, what word will describe the situation?",
+  "answer": "pluralism and diversity",
+  "choices": [
+    "interdependence",
+    "accentuated risk",
+    "contemporaries"
+  ]
+},{
+  "_id": {
+    "$oid": "638aec1f00f07e34fd49d967"
+  },
+  "question": " Of all these programs, this is one in which any member in the community can help?",
+  "answer": "Brigada-Eskwela",
+  "choices": [
+    "Education Service Contracting",
+    "Mother Tongue-Based Multilingual Education Program",
+    "E- Impact"
+  ]
+},{
+  "_id": {
+    "$oid": "638aec6400f07e34fd49d968"
+  },
+  "question": "“An ounce of experience is better than a ton of theory” was one of John Dewey’s main contentions. This statement underscores the…",
+  "answer": "the primacy of experience",
+  "choices": [
+    "the need for theory",
+    "the need for experience",
+    "the primacy of theory"
+  ]
+},{
+  "_id": {
+    "$oid": "638aeca300f07e34fd49d969"
+  },
+  "question": "Several components make up a morally mature person. Which shows that a teacher applies more principles (e.g., the Golden Rule) when making moral judgments?",
+  "answer": "reflects on moral choices",
+  "choices": [
+    "encourages others to share their ideas",
+    "develops self-esteem",
+    "takes into account the opinions of others"
+  ]
+},{
+  "_id": {
+    "$oid": "638aece100f07e34fd49d96a"
+  },
+  "question": "What best describes the “pwede na” mentality vs excellence in service/work?",
+  "answer": "resignation to mediocrity",
+  "choices": [
+    "arduous preparation",
+    "committed work",
+    "striving to be the best"
+  ]
+},{
+  "_id": {
+    "$oid": "638aed2500f07e34fd49d96b"
+  },
+  "question": "What school of thought is behind the student-centered approach in teaching which emphasizes discovery learning among students?",
+  "answer": "progressivism",
+  "choices": [
+    "behaviorism",
+    "essentialism",
+    "existentialism"
+  ]
+},{
+  "_id": {
+    "$oid": "638aed6500f07e34fd49d96c"
+  },
+  "question": "What is the appropriate response for millennials who are more exposed to virtual reality (digital toys and tools) instead of actual reality?",
+  "answer": "Align learning in the context of reality",
+  "choices": [
+    "no mobile phones in school",
+    "limits the use of Facebook and texting",
+    "PTA conference with parents"
+  ]
+},{
+  "_id": {
+    "$oid": "638aedb000f07e34fd49d96d"
+  },
+  "question": "With the influx of technology in the 21 first century, how can students be best re-educated on the ethical use of social media, such as Facebook and mobile texting?",
+  "answer": "integrate social media competencies in the curriculum",
+  "choices": [
+    "students monitoring of peers",
+    "punishment for violators",
+    "seminar on social media"
+  ]
+},{
+  "_id": {
+    "$oid": "638aedea00f07e34fd49d96e"
+  },
+  "question": "What is considered the best feature of Tyler’s Rationale?",
+  "answer": "Identifying the purpose",
+  "choices": [
+    "Planning phase",
+    "Evaluating the experience",
+    "Organizing the experiences"
+  ]
+},{
+  "_id": {
+    "$oid": "638aee2000f07e34fd49d96f"
+  },
+  "question": "In an outcome-based approach to instructions, how can competencies be best demonstrated?",
+  "answer": "congruence between objectives\n",
+  "choices": [
+    "varied outcome evidence",
+    "continuing monitoring and evaluation",
+    "high achievement test marks and output"
+  ]
+},{
+  "_id": {
+    "$oid": "638aee5900f07e34fd49d970"
+  },
+  "question": "Teacher Lea is an excellent recordist of knowledge, concepts, subject matter, and content of the curriculum. As a curricularist, she is a _____.",
+  "answer": "writer",
+  "choices": [
+    "evaluator",
+    "implementer",
+    "planner"
+  ]
+},{
+  "_id": {
+    "$oid": "638aef9800f07e34fd49d971"
+  },
+  "question": "Under the K to 12 Curriculum, what covers the spiral approach in the teaching of Mathematics?",
+  "answer": "progressively teach Math concepts from Grade 1 and continued to Grade 10",
+  "choices": [
+    "teach Algebra, Geometry, and Trigonometry only to higher grades",
+    "teach Algebra, Geometry, and Trigonometry in Grades 7, 8, and 10 respectively",
+    "Give autonomy to schools in choice of Math subjects"
+  ]
+},{
+  "_id": {
+    "$oid": "638aefcd00f07e34fd49d972"
+  },
+  "question": "Arrange the steps in strategic instructional planning in chronological order:\n\nI. check materials\nII. decide expected outcomes\nIII. establish content\nIV. outline presentation lesson\nV. implement instruction",
+  "answer": "III, II, IV, I, and V\n",
+  "choices": [
+    "III, IV, II, I, and V",
+    "IV, I, II, III, and V",
+    "II, I, III, IV, and V"
+  ]
+},{
+  "_id": {
+    "$oid": "638af00e00f07e34fd49d973"
+  },
+  "question": " Teacher Maria made a list of learning activities for her lesson plan, but she did not include _____ because this is a common activity in daily lessons.",
+  "answer": "presentation",
+  "choices": [
+    "summative exam",
+    "project",
+    "buzz exam"
+  ]
+},{
+  "_id": {
+    "$oid": "638af04300f07e34fd49d974"
+  },
+  "question": "What mistake is committed by a teacher who lacks clear direction and sequences of activities by going from one activity to another?",
+  "answer": "conformance with authority",
+  "choices": [
+    "openness to new ideas",
+    "set standards and rules",
+    "fixed point of view"
+  ]
+},{
+  "_id": {
+    "$oid": "638af0a000f07e34fd49d975"
+  },
+  "question": "Which among the activities below is NOT an element for effective direct instruction?",
+  "answer": "ample review and explanation",
+  "choices": [
+    "asking a question and checking for understanding",
+    "proceed in quick and double steps",
+    "provide systematic feedback and correction"
+  ]
+},{
+  "_id": {
+    "$oid": "638af0dc00f07e34fd49d976"
+  },
+  "question": "This is the primary goal in displaying statistical data through graphs of differing heights in a Histogram.",
+  "answer": "Quantitative value",
+  "choices": [
+    "Data flow",
+    "Frequency distribution",
+    "Symbolize figure"
+  ]
+},{
+  "_id": {
+    "$oid": "638af11500f07e34fd49d977"
+  },
+  "question": "Which among the applications below is rooted in B.F. Skinner’s Theory of Operant Conditioning?",
+  "answer": "Project method",
+  "choices": [
+    "Computer-assisted instruction",
+    "Mastery learning",
+    "Process flow"
+  ]
+},{
+  "_id": {
+    "$oid": "638af14400f07e34fd49d978"
+  },
+  "question": "What learning area utilizes the demonstration method as its most suitable, effective, and useful vehicle for learning?",
+  "answer": "Technical-vocational",
+  "choices": [
+    "Social Studies",
+    "General education",
+    "Values education"
+  ]
+},{
+  "_id": {
+    "$oid": "638af17300f07e34fd49d979"
+  },
+  "question": "Among newspaper contents, what can Teacher D utilize to teach critical reading skills to his Grade 6 students?",
+  "answer": "Feature content",
+  "choices": [
+    "News content",
+    "Editorial content",
+    "Entertainment content"
+  ]
+},{
+  "_id": {
+    "$oid": "638af1a200f07e34fd49d97a"
+  },
+  "question": "In her science class, how can Teacher May show the plant’s response to sunlight in an inductive manner?",
+  "answer": "Explain the plant’s response to sunlight",
+  "choices": [
+    "Show different kinds of plants and their response to sunlight",
+    "State the cause and effect of the plant’s exposure to sunlight",
+    "Explain the chemical reaction of the plant to sunlight"
+  ]
+},{
+  "_id": {
+    "$oid": "638af1d100f07e34fd49d97b"
+  },
+  "question": "Which among the situations demonstrates an integration of the teacher’s technological, pedagogical, and content knowledge in preparing a Math lesson for Grade 4 students?",
+  "answer": "makes students find apps on the internet and share them with classmates.",
+  "choices": [
+    "makes students watch videos downloaded from YouTube and ask them to summarize the video.",
+    "evaluates Math apps on multiplication, matches them with their learner’s skill level demonstrates the use of apps, allows students to explore, and asks students to summarize the lesson.",
+    "checks math standards of Grade 4 as a basis for answering multiplications exercises on the board."
+  ]
+},{
+  "_id": {
+    "$oid": "638af20600f07e34fd49d97c"
+  },
+  "question": "In classroom management, this is the immediate and effective way to address three misbehaving students.",
+  "answer": "Stop classes till the three-stop misbehaving",
+  "choices": [
+    "Assign them a separate seat",
+    "Detain three after class",
+    "Send them to the guidance room"
+  ]
+},{
+  "_id": {
+    "$oid": "638af24000f07e34fd49d97d"
+  },
+  "question": "What questioning technique is used by Teacher A when he asked the learners a series of questions that serves to explore, look into, and inquire?",
+  "answer": "repeat",
+  "choices": [
+    "rephrase",
+    "redirect",
+    "probe"
+  ]
+},{
+  "_id": {
+    "$oid": "638af27000f07e34fd49d97e"
+  },
+  "question": "Which among the following is NOT a responsibility of the Learning Resource / Audiovisual / Educational Technology Centers of a school?",
+  "answer": "Accomplish student’s technology projects for them.",
+  "choices": [
+    "Make available technology equipment for use of students and teachers.",
+    "Work with teachers in producing instructional materials.",
+    "Conduct training for teachers on the use of technology tools."
+  ]
+},{
+  "_id": {
+    "$oid": "638af2b500f07e34fd49d97f"
+  },
+  "question": "As a classroom manager, Teacher A required each of his students to stand and give their seatwork individually to him before the bell rings for dismissal. What component of classroom management did he establish?",
+  "answer": "rule",
+  "choices": [
+    "routine",
+    "code",
+    "norm"
+  ]
+},{
+  "_id": {
+    "$oid": "638af30c00f07e34fd49d980"
+  },
+  "question": "Among the activities below, which activity demonstrates collaborative learning?",
+  "answer": "group project concepts and application",
+  "choices": [
+    "student group takes drills",
+    "student group take a field trip",
+    "teacher tutorial on students’ groups"
+  ]
+},{
+  "_id": {
+    "$oid": "638af35000f07e34fd49d981"
+  },
+  "question": "A bulletin board display has many colors and arrangement that catches and hold interest. What criteria is being exemplified in this situation?",
+  "answer": "balance",
+  "choices": [
+    "interactivity",
+    "utility",
+    "attractiveness"
+  ]
+},{
+  "_id": {
+    "$oid": "638af38700f07e34fd49d982"
+  },
+  "question": "Teacher Rina does not have drills out of context. Instead, she gives real-world Math problems for the learners to drill on. This act of Teacher Ivy is rooted in which principle of learning?",
+  "answer": "Learning is a cooperative and collaborative process",
+  "choices": [
+    "Effective learning begins with the setting of expectations and learning of outcomes",
+    "Learning is the discovery of personal meaning and relevant ideas",
+    "Learning is an active process"
+  ]
+},{
+  "_id": {
+    "$oid": "638af3b800f07e34fd49d983"
+  },
+  "question": "This learning episode includes documentation that is complete, clear, and well-organized.",
+  "answer": "Portfolio",
+  "choices": [
+    "Assignment submitted before the deadline",
+    "Analysis of learning episodes",
+    "Reflections/insight"
+  ]
+},{
+  "_id": {
+    "$oid": "638af3e300f07e34fd49d984"
+  },
+  "question": "Teacher C asks students to break down, critically examine and investigate a concept or problem. This demonstrates what kind of learning?",
+  "answer": "application",
+  "choices": [
+    "synthesis",
+    "analysis",
+    "evaluation"
+  ]
+},{
+  "_id": {
+    "$oid": "638af42100f07e34fd49d985"
+  },
+  "question": "To achieve meaningful teaching and process, it is best to link and relate the lesson to the life of the student by integrating a relevant value in the lesson. Which among the following agrees with this principle?",
+  "answer": "Begin with the goal/objective in mind",
+  "choices": [
+    "Share lesson objectives/outcomes with students.",
+    "Write SMART lesson objectives",
+    "Lesson objectives/outcomes integrated with 2 or 3 domains-cognitive, skill, and effective learning."
+  ]
+},{
+  "_id": {
+    "$oid": "638af45100f07e34fd49d986"
+  },
+  "question": "Teacher Jenny adheres to the idea that her students do not need to know the learning outcomes of her lessons. She proceeds to give activities without letting them know what they were supposed to learn for the day. What principle of learning does Teacher Jenny violate?",
+  "answer": "Learning is a cooperative and collaborative process",
+  "choices": [
+    "Learning is the discovery of the personal meaning of ideas.",
+    "Learning is an active process",
+    "Effective learning begins with setting clear expectations and learning outcomes"
+  ]
+},{
+  "_id": {
+    "$oid": "638af48900f07e34fd49d987"
+  },
+  "question": "Based on DepEd’s present grading system, which assessment is/are used to grade students?\nI. Formative assessment\nII. Summative assessment\nIII. Assessment of Learning",
+  "answer": "I, II, and III",
+  "choices": [
+    "I only",
+    "I and II",
+    "I and III"
+  ]
+},{
+  "_id": {
+    "$oid": "638af4be00f07e34fd49d988"
+  },
+  "question": "When computing for the final grade in a learning area, K to 12 utilizes:",
+  "answer": "Zero-based grading",
+  "choices": [
+    "Cumulative",
+    "Averaging",
+    "Norm-referenced grading"
+  ]
+},{
+  "_id": {
+    "$oid": "638af50100f07e34fd49d989"
+  },
+  "question": "When comparing the variability of two sets of scores, which is best?",
+  "answer": "variance",
+  "choices": [
+    "range",
+    "standard deviation",
+    "coefficient of variation"
+  ]
+},{
+  "_id": {
+    "$oid": "638af54300f07e34fd49d98a"
+  },
+  "question": "Which of the following is correct about the Median?",
+  "answer": "It is significantly affected by extreme scores",
+  "choices": [
+    "It is a measure of variability",
+    "It is the most stable measure of central tendency",
+    "It is 2-second quartile"
+  ]
+},{
+  "_id": {
+    "$oid": "638af57600f07e34fd49d98b"
+  },
+  "question": "If you are to determine if you realized your intended learning outcomes, which of the following portfolios would you require?",
+  "answer": "showcase portfolio",
+  "choices": [
+    "evaluation portfolio",
+    "development portfolio",
+    "assessment portfolio"
+  ]
+},{
+  "_id": {
+    "$oid": "638af5b600f07e34fd49d98c"
+  },
+  "question": "When the distribution is skewed to the right, the test is said to be:",
+  "answer": "very difficult",
+  "choices": [
+    "very easy",
+    "average/moderately difficult",
+    "not too easy nor difficult"
+  ]
+}]
